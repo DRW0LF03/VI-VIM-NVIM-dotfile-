@@ -4,7 +4,7 @@ NeoVim Config Win x lite
 
 ## How to use this files 
 
-- just copy paste this files into your folder :
+- just copy paste this folder into :
 
 'C:\Users\[name user]\AppData\Local'
 
